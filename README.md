@@ -1,7 +1,7 @@
 # Catch-The-Elephant
 
 
-![start](https://user-images.githubusercontent.com/58186891/101035587-d5e1bf80-358b-11eb-87da-152508434bce.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/58186891/101236904-cb3b3d80-36e5-11eb-9546-af4890a9200c.png)
 
 In this game, the character goes to random points on the screen.
 
